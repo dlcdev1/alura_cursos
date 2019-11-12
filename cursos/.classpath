@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="java-training/Training/src/rewier"/>
+	<classpathentry kind="src" path="peding"/>
+	<classpathentry kind="src" path="Herança"/>
+	<classpathentry kind="src" path="Employees"/>
+	<classpathentry kind="src" path="Products"/>
+	<classpathentry kind="src" path="taxpayers"/>
+	<classpathentry kind="src" path="testing"/>
+	<classpathentry kind="src" path="Maps"/>
+	<classpathentry kind="src" path="CollectorsJoining"/>
+	<classpathentry kind="src" path="referencia"/>
+	<classpathentry kind="src" path="testeRegex"/>
+	<classpathentry kind="src" path="Alura"/>
+	<classpathentry kind="src" path="AluraIntroducaoAOrientacaoObjeto"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="java-training/Training/bin"/>
+</classpath>
