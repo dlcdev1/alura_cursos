@@ -8,6 +8,7 @@ public class Fluxo {
       String msg = ex.getMessage();
       System.out.println("Excption " + msg);
       ex.printStackTrace();
+      //commit for test
     }
   }
 
