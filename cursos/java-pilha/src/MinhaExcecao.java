@@ -5,5 +5,4 @@ public class MinhaExcecao extends RuntimeException{
     super(msg);
   }
   
-  
 }
