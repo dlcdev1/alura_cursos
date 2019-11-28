@@ -28,7 +28,7 @@ public class Avaliador {
         return 0;
       }
     });
-    maiores = maiores.subList(0, maiores.size() > 4 ? 4 : maiores.size());
+    maiores = maiores.subList(0, maiores.size() > 5 ? 5 : maiores.size());
   }
   
 
