@@ -1,8 +1,18 @@
 #!bin/bash
 echo "teste"
 
-CAMINHO_IMAGENS=~/training/alura_cursos/cursos/shell_scripting/imagens-livros/
+cd ~/training/alura_cursos/cursos/shell_scripting/imagens-livros/
 
-#no linux é utilizado o comando #convert algoritmo.jpg algortimo.png
-convert $CAMINHO_IMAGENS/$1.jpg $CAMINHO_IMAGENS/$1.png
-convert $CAMINHO_IMAGENS/$2.jpg $CAMINHO_IMAGENS/$2.png
+if [ ! -d png ]
+then
+echo "Criando diretorio png"
+    mkdir png
+fi
+
+
+# $@ engloga todos os parametros
+for imagem in *.jpg
+do 
+    imagem_sem_extensao=$(ls $imagem | awk -F. '{ print $1 }')
+    convert $imagem_sem_extensao.jpg png/$imagem_sem_extensao.png
+done
