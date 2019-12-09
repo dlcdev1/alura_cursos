@@ -25,7 +25,7 @@ public class Pagamento {
         this.valor = valor;
     }
     public Calendar getData() {
-        return this.data;
+        return this.data; 
     }
     public void setData(Calendar data) {
         this.data = data;
