@@ -1,10 +1,14 @@
+import random
+
 print("********************************")
 print("Bem vindo no jodo de Advinhação")
 print("********************************")
 
-numero_secreto = 43
+numero_secreto = round(random.randrange(1, 101))  # 0.0 or 1.0
 total_de_tentativas = 3
-rodada = 1
+
+print(numero_secreto)
+
 for rodada in range(1, total_de_tentativas + 1):
     print("Tentativa: {} de {}".format(rodada, total_de_tentativas))
     chute_str = input("Digite um numero entre 1 e 100: ")
