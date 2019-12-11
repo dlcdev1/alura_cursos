@@ -1,20 +1,24 @@
+import java.util.ArrayList;
 
 public class Teste {
 
   public static void main(String[] args) {
 
-    int[] idades = new int[5];
-  
-    idades[0] = 29;
-    idades[1] = 39;
-    idades[2] = 49;
-    idades[3] = 59;
-    idades[4] = 69;
-    
-    
-    int idade1 = idades[49];
-    
-    System.out.println(idade1);
+   ArrayList lista = new ArrayList();
+   ContaCorrente cc = new ContaCorrente(22, 11);
+   lista.add(cc);
+   
+   ContaCorrente cc1 = new ContaCorrente(33, 322);
+   lista.add(cc1);
+
+   ContaCorrente cc2 = new ContaCorrente(44, 422);
+   lista.add(cc2);
+   
+   System.out.println(lista.size());
+   
+   for(Object o : lista) {
+     System.out.println(o);
+   }
   }
 
 }
