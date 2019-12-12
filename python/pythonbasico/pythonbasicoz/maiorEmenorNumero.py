@@ -14,8 +14,8 @@ while True:
             print('%d é o menor numero:' %n2)
         else:
             print('%d é o menor numero' %n3)
-    elif n2 > n1 and n2 > n3:
-        print('% é o maior numero' %n2)
+    elif n2 > n3:
+        print('%d é o maior numero' %n2)
         if n1 < n3:
             print('%d é o menor numero' %n1)
         else:
