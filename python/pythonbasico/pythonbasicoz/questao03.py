@@ -9,6 +9,8 @@ totalHoras = horas * 3600
 totalMinutos = minutos * 60
 totalSegundos = segundos
 
+
+
 print('Total em segundos Segundos são: ', totalDia + totalHoras + totalMinutos + totalSegundos)
 
 
