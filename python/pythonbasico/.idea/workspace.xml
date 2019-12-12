@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06194c9a-801e-4274-9649-57395d8d1caa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../aula1/.idea/aula1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aula1/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aula1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aula1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aula1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jogos/advinhacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula2-entrada-e-saida.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula3-operadores-logicos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula4-strins-e-listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula5-estrutura-de-laco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-aula-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-aula.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-aula3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questao01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questao2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bytebank-herdado-conta/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bytebank-herdado-conta/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../refatoracao_java/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../alura" beforeDir="false" afterPath="$PROJECT_DIR$/../../alura" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +30,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/questao01.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="45">
@@ -53,11 +39,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/questao2.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="45">
-                  <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+                  <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
                 </state>
               </provider>
             </entry>
@@ -119,7 +105,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -182,7 +168,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -330,7 +319,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14216478" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14378029" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5005325" side_tool="true" weight="0.32970297" />
@@ -409,6 +398,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/questao01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercicio-aula-5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -440,14 +436,7 @@
     <entry file="file://$PROJECT_DIR$/questao2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/questao01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
         </state>
       </provider>
     </entry>
