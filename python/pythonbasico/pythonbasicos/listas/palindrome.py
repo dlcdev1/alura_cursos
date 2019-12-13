@@ -2,7 +2,8 @@
 x = '0123456789'
 print(x)
 print(x[0:2])
-print(x[1:2])
+data = '25/11/1982'
+print(data[0:2])
 print(x[2:4])
 print(x[0:5])
 print(x[1:8])
