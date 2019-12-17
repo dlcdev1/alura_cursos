@@ -1,22 +1,78 @@
-def jogar():
-    print("********************************")
-    print("Bem vindo no jodo Forca ")
-    print("********************************")
+import random
 
-    palavra_secreta = 'banana'
+
+
+
+
+def jogar():
+
+    imprime_mensagem_abertura()
+    palavra_secreta = carrega_palavra_secreta()
+    letras_acertadas = inicializa_letras_acertadas(palavra_secreta)
+
+    print(letras_acertadas)
+
     enforcou = False
     acertou = False
+    erros = 0
 
     while not enforcou and not acertou:
-        chute = input('Qual letra? ')
-        chute = chute.strip().upper()
-        index = 1
-        for letra in palavra_secreta:
-            if chute.upper() == letra.upper():
-                print('Encontrei a letra {} na posição {} '.format(letra, index))
-            index += 1
 
-    print('Fim do jogo')
+        chute = pede_chute()
+
+        if chute in palavra_secreta:
+           marca_chut_correto(chute, letras_acertadas, palavra_secreta)
+        else:
+            erros +=1
+        enforcou = erros == 6
+        acertou = '_' not in letras_acertadas
+        print(letras_acertadas)
+
+
+
+    if acertou :
+        imprime_mensagem_vencedor()
+    else:
+        imprime_mensagem_perdedor()
+
+
+def marca_chut_correto(chute, letras_acertadas, palavra_secreta):
+    index = 0
+    for letra in palavra_secreta:
+        if chute == letra:
+            letras_acertadas[index] = letra
+        index += 1
+
+
+def imprime_mensagem_abertura():
+
+    print("********************************")
+    print("Bem vindo no jodo Forca ********")
+    print("********************************")
+
+
+def carrega_palavra_secreta():
+    palavras = []
+    with open('palavras.txt') as arquivo:
+        for linha in arquivo:
+            palavras.append(linha.strip())
+
+    return palavras[random.randrange(0, len(palavras))].upper()
+
+def inicializa_letras_acertadas(palavra):
+    return ['_' for letra in palavra]
+
+def pede_chute():
+
+    chute = input('Qual letra? ')
+    return chute.strip().upper()
+
+def imprime_mensagem_vencedor():
+    print('Voce ganhou!!')
+
+
+def imprime_mensagem_perdedor():
+    print('Voce perdeu!!')
 
 if __name__ == '__main__':
     jogar()
