@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: datas
+Version: 0.2.9
+Summary: Collection of data structures and algorithms in python.
+Home-page: https://github.com/robgrzel/datas
+Author: Robert Grzelka
+Author-email: robert.grzelka@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# datas
+Bunch of datastructures and algorithms in python and maybe cython.
+
+

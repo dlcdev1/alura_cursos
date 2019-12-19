@@ -1,7 +1,8 @@
-from datas import Data
+class Data:
+    def __init__(self, dia, mes, ano):
+        self.dia = dia
+        self.mes = mes
+        self.ano = ano
 
-class Datas:
-    d = Data(21, 11, 2007)
-
-    def imprime_data(self):
-        return Datas.d
+    def formatada(self):
+        print('{}/{}/{}'.format(self.dia, self.mes, self.ano))
