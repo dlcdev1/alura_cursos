@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="914861e9-7ece-4e10-9283-44c2748f7d8f" name="Default Changelist" comment="" />
+    <list default="true" id="914861e9-7ece-4e10-9283-44c2748f7d8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lista_exercicios_fixacao/lista04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_exercicios_fixacao/lista05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_exercicios_fixacao/lista06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,41 +17,23 @@
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.51966876">
+    <splitter split-orientation="horizontal" split-proportion="0.53031677">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista01.py">
+            <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista05.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista02.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+                <state relative-caret-position="118">
+                  <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista03.py">
+            <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista06.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ooa/modelo.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="321">
-                  <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+                <state relative-caret-position="315">
+                  <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -54,17 +41,35 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/questao01.py">
+            <entry file="file://$PROJECT_DIR$/OO/conta.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="25" selection-start-line="25" selection-end-line="25" />
+                <state relative-caret-position="195">
+                  <caret line="43" column="32" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="32" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ooa/modelo.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-168">
+                  <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/questao01.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="373">
+                  <caret line="25" selection-start-line="25" selection-end-line="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/concatenacao.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="150">
@@ -90,6 +95,7 @@
       <find>'</find>
       <find>)</find>
       <find>link</find>
+      <find>valor_disponivel_a_sacar</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -105,9 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pythonbasico/pythonbasicoz/maiorNumero.py" />
-        <option value="$PROJECT_DIR$/pythonbasico/pythonbasicoz/maiorEmenorNumero.py" />
-        <option value="$PROJECT_DIR$/pythonbasico/pythonbasicoz/anoBissexto.py" />
         <option value="$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/lista01.py" />
         <option value="$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/lista_calculo_media.py" />
         <option value="$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/print-vertor.py" />
@@ -156,6 +159,9 @@
         <option value="$PROJECT_DIR$/lista_exercicios_fixacao/lista02.py" />
         <option value="$PROJECT_DIR$/lista_exercicios_fixacao/lista2.py" />
         <option value="$PROJECT_DIR$/lista_exercicios_fixacao/lista03.py" />
+        <option value="$PROJECT_DIR$/lista_exercicios_fixacao/lista04.py" />
+        <option value="$PROJECT_DIR$/lista_exercicios_fixacao/lista05.py" />
+        <option value="$PROJECT_DIR$/lista_exercicios_fixacao/lista06.py" />
       </list>
     </option>
   </component>
@@ -181,7 +187,12 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="lista_exercicios_fixacao" type="462c0819:PsiDirectoryNode" />
+              <item name="OO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="ooa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
@@ -251,49 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lista03">
-    <configuration name="cliente" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OO" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OO/cliente.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lista01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista_exercicios_fixacao" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista_exercicios_fixacao/lista01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.lista06">
     <configuration name="lista02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -336,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="modelo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lista04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,11 +313,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ooa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista_exercicios_fixacao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ooa/modelo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista_exercicios_fixacao/lista04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lista05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista_exercicios_fixacao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista_exercicios_fixacao/lista05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lista06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista_exercicios_fixacao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista_exercicios_fixacao/lista06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,11 +370,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lista06" />
+        <item itemvalue="Python.lista05" />
+        <item itemvalue="Python.lista04" />
         <item itemvalue="Python.lista03" />
         <item itemvalue="Python.lista02" />
-        <item itemvalue="Python.lista01" />
-        <item itemvalue="Python.modelo" />
-        <item itemvalue="Python.cliente" />
       </list>
     </recent_temporary>
   </component>
@@ -393,20 +404,20 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49641576" visible="true" weight="0.163142" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49641576" visible="true" weight="0.16540785" />
       <window_info id="Structure" order="1" sideWeight="0.5035842" side_tool="true" weight="0.3018598" />
       <window_info id="Favorites" order="2" sideWeight="0.5035842" side_tool="true" weight="0.3018598" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49848944" weight="0.3295129" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7348943" visible="true" weight="0.35530087" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.61074704" weight="0.39971346" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.53700906" visible="true" weight="0.35530087" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.72205436" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848944" weight="0.3252149" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4939577" weight="0.3252149" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.26510575" side_tool="true" visible="true" weight="0.35530087" />
-      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.80209696" weight="0.3252149" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49169186" weight="0.25071633" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4954683" weight="0.3252149" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49169186" weight="0.3252149" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.46299094" side_tool="true" visible="true" weight="0.35530087" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.79909366" weight="0.3252149" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49093655" weight="0.25071633" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -455,25 +466,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/numero2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/textoSalvo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/verificacao_de_strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonbasico/calsses_e_objetos/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -642,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OO/conta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OO/cliente.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -739,10 +724,10 @@
     <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/print-vertor.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista01.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/concatenacao.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -753,31 +738,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ooa/modelo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/questao01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/concatenacao.py">
+    <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/questao01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OO/conta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ooa/modelo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_exercicios_fixacao/lista06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
