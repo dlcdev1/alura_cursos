@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="914861e9-7ece-4e10-9283-44c2748f7d8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../flask/jogoteca/static/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/jogoteca/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/jogoteca/templates/novo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/jogoteca/templates/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask/jogoteca/jogoteca.py" beforeDir="false" afterPath="$PROJECT_DIR$/../flask/jogoteca/jogoteca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask/jogoteca/templates/lista.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flask/jogoteca/templates/lista.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ooa/modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ooa/modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonbasico/solyd/aula6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/app.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +23,21 @@
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ooa/modelo.py">
+        <entry file="file://$PROJECT_DIR$/pythonbasico/solyd/aula6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="62" column="39" lean-forward="true" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonbasico/solyd/exercicio-aula-5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -56,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/lista01.py" />
         <option value="$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/lista_calculo_media.py" />
         <option value="$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/print-vertor.py" />
         <option value="$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/lista-decremental.py" />
@@ -107,6 +123,7 @@
         <option value="$PROJECT_DIR$/lista_exercicios_fixacao/lista05.py" />
         <option value="$PROJECT_DIR$/lista_exercicios_fixacao/lista06.py" />
         <option value="$PROJECT_DIR$/ooa/modelo.py" />
+        <option value="$PROJECT_DIR$/pythonbasico/solyd/aula6.py" />
       </list>
     </option>
   </component>
@@ -122,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,12 +148,24 @@
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonbasico" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonbasico" type="462c0819:PsiDirectoryNode" />
+              <item name="solyd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,8 +202,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.modelo">
-    <configuration name="lista03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.aula6">
+    <configuration name="aula6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista_exercicios_fixacao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasico/solyd" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista_exercicios_fixacao/lista03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasico/solyd/aula6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lista04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercicio-aula-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +232,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista_exercicios_fixacao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasico/solyd" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista_exercicios_fixacao/lista04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasico/solyd/exercicio-aula-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula6" />
+        <item itemvalue="Python.exercicio-aula-5" />
         <item itemvalue="Python.modelo" />
         <item itemvalue="Python.lista06" />
         <item itemvalue="Python.lista05" />
-        <item itemvalue="Python.lista04" />
-        <item itemvalue="Python.lista03" />
       </list>
     </recent_temporary>
   </component>
@@ -316,18 +344,18 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49641576" visible="true" weight="0.19939578" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49641576" visible="true" weight="0.20241691" />
       <window_info id="Structure" order="1" sideWeight="0.5035842" side_tool="true" weight="0.3018598" />
       <window_info id="Favorites" order="2" sideWeight="0.5035842" side_tool="true" weight="0.3018598" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49848944" weight="0.3295129" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64274925" weight="0.3939828" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.64199394" visible="true" weight="0.3939828" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.72205436" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4954683" weight="0.3252149" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49169186" weight="0.3252149" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.35725075" side_tool="true" visible="true" weight="0.29799426" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.35800603" side_tool="true" visible="true" weight="0.3939828" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.79909366" weight="0.3252149" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49093655" weight="0.25071633" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -378,16 +406,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythonbasico/calsses_e_objetos/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasico/conta/cliente.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonbasico/pythonbasicos/listas/ler_livro.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -477,9 +495,6 @@
     <entry file="file://$PROJECT_DIR$/pythonbasico/jogos/palavras.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonbasico/jogos/forca.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
@@ -526,13 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -701,8 +709,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ooa/modelo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
+        <state relative-caret-position="789">
           <caret line="62" column="39" lean-forward="true" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/app.py" />
+    <entry file="file://$PROJECT_DIR$/flask/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/pythonbasico/solyd/exercicio-aula-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasico/solyd/aula6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
