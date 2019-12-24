@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="914861e9-7ece-4e10-9283-44c2748f7d8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../flask/jogoteca/static/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/jogoteca/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/jogoteca/templates/novo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/jogoteca/templates/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flask/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask/jogoteca/jogoteca.py" beforeDir="false" afterPath="$PROJECT_DIR$/../flask/jogoteca/jogoteca.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask/jogoteca/templates/lista.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flask/jogoteca/templates/lista.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonbasico/solyd/aula6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/app.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,12 +14,12 @@
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pythonbasico/solyd/aula6.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -37,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/pythonbasico/solyd/exercicio-aula-5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -139,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,7 +157,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,12 +335,12 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49641576" visible="true" weight="0.20241691" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49641576" visible="true" weight="0.20543806" />
       <window_info id="Structure" order="1" sideWeight="0.5035842" side_tool="true" weight="0.3018598" />
       <window_info id="Favorites" order="2" sideWeight="0.5035842" side_tool="true" weight="0.3018598" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49848944" weight="0.3295129" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.64199394" visible="true" weight="0.3939828" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64199394" weight="0.3939828" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.72205436" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -716,17 +707,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flask/app.py" />
     <entry file="file://$PROJECT_DIR$/flask/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/pythonbasico/solyd/exercicio-aula-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonbasico/solyd/aula6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasico/solyd/exercicio-aula-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
