@@ -30,17 +30,27 @@
             <li role="presentation"><a href="#">Contact</a></li>
           </ul>
         </nav>
-        <h3 class="text-muted">Project name</h3>
+        <h3 class="text-muted">Toilter</h3>
       </div>
 
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+            <div class="alert alert-warning">
+              <ul class=flashes>
+              {% for message in messages %}
+                <li>{{ message }}</li>
+              {% endfor %}
+              </ul>
+            </div>
+            {% endif %}
+        {% endwith %}
         {% block content %}
         {% endblock %}
 
     </div> <!-- /container -->
 
-
     <!-- jQuery (necessay for Bootstrap's JavaScript plugins)-->
-    <script src=https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
   </body>
