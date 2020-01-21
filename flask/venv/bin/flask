@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/home/pessoa/treinamento/cursos/flask/venv/bin/python
+=======
+#!/Users/davidcorreia/Documents/Workspace/cursos/flask/venv/bin/python
+>>>>>>> a4a67d7ed08fb08194cb477b01a215e107d476ae
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7801848-2faa-406f-acc6-a53bf521b7b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jogoteca/templates/arquivoteste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flasky/.idea/flasky.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flasky/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flasky/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flasky/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flasky/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flasky/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flasky/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flasky/venv/lib/python3.7/site-packages/easy-install.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flasky/venv/lib/python3.7/site-packages/setuptools.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testes-python-inicial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testes-python-inicial/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WCdq4277Ux7Mxeb2BFzShknFFh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jogoteca/static" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jogoteca" />
+      <recent name="$PROJECT_DIR$/jogoteca/templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jogoteca/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.jogoteca">
+    <configuration name="jogoteca" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jogoteca" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jogoteca/jogoteca.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prepara_banco" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jogoteca" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jogoteca/prepara_banco.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jogoteca" />
+        <item itemvalue="Python.prepara_banco" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7801848-2faa-406f-acc6-a53bf521b7b0" name="Default Changelist" comment="" />
+      <created>1576676925121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576676925121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578657723985">
+      <screen x="0" y="23" width="1366" height="672" />
+    </state>
+    <state x="371" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1366.-9.1280.777/0.23.1366.672@0.23.1366.672" timestamp="1578657723985" />
+    <state width="673" height="271" key="GridCell.Tab.0.bottom" timestamp="1578683495919">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="673" height="271" key="GridCell.Tab.0.bottom/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495919" />
+    <state width="673" height="271" key="GridCell.Tab.0.center" timestamp="1578683495917">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="673" height="271" key="GridCell.Tab.0.center/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495917" />
+    <state width="673" height="271" key="GridCell.Tab.0.left" timestamp="1578683495912">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="673" height="271" key="GridCell.Tab.0.left/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495912" />
+    <state width="673" height="271" key="GridCell.Tab.0.right" timestamp="1578683495918">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="673" height="271" key="GridCell.Tab.0.right/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495918" />
+    <state x="192" y="0" key="SettingsEditor" timestamp="1578684296904">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="192" y="0" key="SettingsEditor/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578684296904" />
+    <state x="192" y="23" key="SettingsEditor/1366.-9.1280.777/0.23.1366.672@0.23.1366.672" timestamp="1578657801638" />
+  </component>
+</project>

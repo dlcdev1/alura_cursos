@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac62538c-aa3e-4a52-87f2-62c1f2824f1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WCeEhKiM7Fmml5tP7LTbIA6MUx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/testes" />
+      <recent name="$PROJECT_DIR$/src/leilao" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/testes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_leilao.TestLeilao">
+    <configuration name="dominio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/leilao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/leilao/dominio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_usuario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/testes/test_usuario.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src.leilao.test_leilao" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/leilao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.leilao.test_leilao&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src.leilao.test_leilao" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/leilao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.leilao.test_leilao&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src.leilao.test_leilao" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/leilao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.leilao.test_leilao&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src.leilao.test_leilao" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/leilao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.leilao.test_leilao&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src.testes.test_leilao.TestLeilao" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.testes.test_leilao.TestLeilao&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_avaliador.TestAvaliador" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/leilao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_avaliador.TestAvaliador&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_avaliador.TestAvaliador.test_deve_retornar_o_maior_e_o_menor_valor_em_ordem_quando_adicionados_em_ordem_decrescente" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/leilao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_avaliador.TestAvaliador.test_deve_retornar_o_maior_e_o_menor_valor_em_ordem_quando_adicionados_em_ordem_decrescente&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_avaliador.TestAvaliador.test_deve_retornar_o_maior_valor_de_um_lance_de_tres_usuario" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/leilao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_avaliador.TestAvaliador.test_deve_retornar_o_maior_valor_de_um_lance_de_tres_usuario&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_leilao.TestLeilao" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_leilao.TestLeilao&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.test_leilao.TestLeilao" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/leilao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_leilao.TestLeilao&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in /Users/davidcorreia/Documents/Workspace/cursos/testes-python-inicial/tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testes-python-inicial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_leilao.TestLeilao" />
+        <item itemvalue="Python tests.Unittests in /Users/davidcorreia/Documents/Workspace/cursos/testes-python-inicial/tests" />
+        <item itemvalue="Python.dominio" />
+        <item itemvalue="Python.test_usuario (1)" />
+        <item itemvalue="Python tests.Unittests for src.testes.test_leilao.TestLeilao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac62538c-aa3e-4a52-87f2-62c1f2824f1d" name="Default Changelist" comment="" />
+      <created>1578583691112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578583691112</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578673429473">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="147" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578673429473" />
+    <state width="1345" height="250" key="GridCell.Tab.0.bottom" timestamp="1578680090833">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.0.bottom/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090833" />
+    <state width="1345" height="250" key="GridCell.Tab.0.center" timestamp="1578680090832">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.0.center/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090832" />
+    <state width="1345" height="250" key="GridCell.Tab.0.left" timestamp="1578680090831">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.0.left/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090831" />
+    <state width="1345" height="250" key="GridCell.Tab.0.right" timestamp="1578680090833">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.0.right/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090833" />
+    <state width="1345" height="250" key="GridCell.Tab.1.bottom" timestamp="1578680090839">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.1.bottom/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090839" />
+    <state width="1345" height="250" key="GridCell.Tab.1.center" timestamp="1578680090838">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.1.center/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090838" />
+    <state width="1345" height="250" key="GridCell.Tab.1.left" timestamp="1578680090837">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.1.left/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090837" />
+    <state width="1345" height="250" key="GridCell.Tab.1.right" timestamp="1578680090838">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.1.right/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090838" />
+    <state width="1345" height="250" key="GridCell.Tab.2.bottom" timestamp="1578680090836">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.2.bottom/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090836" />
+    <state width="1345" height="250" key="GridCell.Tab.2.center" timestamp="1578680090835">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.2.center/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090835" />
+    <state width="1345" height="250" key="GridCell.Tab.2.left" timestamp="1578680090834">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.2.left/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090834" />
+    <state width="1345" height="250" key="GridCell.Tab.2.right" timestamp="1578680090836">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.2.right/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578680090836" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/testes/test_leilao.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/testes/test_leilao.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

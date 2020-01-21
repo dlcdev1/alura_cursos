@@ -29,7 +29,11 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 set -gx VIRTUAL_ENV "/home/pessoa/treinamento/cursos/flask/venv"
+=======
+set -gx VIRTUAL_ENV "/Users/davidcorreia/Documents/Workspace/cursos/flask/venv"
+>>>>>>> a4a67d7ed08fb08194cb477b01a215e107d476ae
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
@@ -52,7 +56,11 @@ if test -z "$VIRTUAL_ENV_DISABLE_PROMPT"
         set -l old_status $status
 
         # Prompt override?
+<<<<<<< HEAD
         if test -n "(venv) "            
+=======
+        if test -n "(venv) "
+>>>>>>> a4a67d7ed08fb08194cb477b01a215e107d476ae
             printf "%s%s" "(venv) " (set_color normal)
         else
             # ...Otherwise, prepend env

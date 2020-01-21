@@ -37,7 +37,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="/home/pessoa/treinamento/cursos/flask/venv"
+=======
+VIRTUAL_ENV="/Users/davidcorreia/Documents/Workspace/cursos/flask/venv"
+>>>>>>> a4a67d7ed08fb08194cb477b01a215e107d476ae
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
