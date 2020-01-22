@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7801848-2faa-406f-acc6-a53bf521b7b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jogoteca/templates/arquivoteste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flasky/.idea/flasky.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flasky/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flasky/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flasky/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flasky/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flasky/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flasky/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flasky/venv/lib/python3.7/site-packages/easy-install.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flasky/venv/lib/python3.7/site-packages/setuptools.pth" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testes-python-inicial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testes-python-inicial/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +47,7 @@
       <recent name="$PROJECT_DIR$/jogoteca/static" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.jogoteca">
+  <component name="RunManager" selected="Python.prepara_banco">
     <configuration name="jogoteca" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="flask" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,8 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.jogoteca" />
         <item itemvalue="Python.prepara_banco" />
+        <item itemvalue="Python.jogoteca" />
       </list>
     </recent_temporary>
   </component>
@@ -136,21 +127,25 @@
       <screen x="0" y="23" width="1366" height="672" />
     </state>
     <state x="371" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1366.-9.1280.777/0.23.1366.672@0.23.1366.672" timestamp="1578657723985" />
-    <state width="673" height="271" key="GridCell.Tab.0.bottom" timestamp="1578683495919">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1899" height="404" key="GridCell.Tab.0.bottom" timestamp="1579094022078">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state width="1899" height="404" key="GridCell.Tab.0.bottom/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579094022078" />
     <state width="673" height="271" key="GridCell.Tab.0.bottom/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495919" />
-    <state width="673" height="271" key="GridCell.Tab.0.center" timestamp="1578683495917">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1899" height="404" key="GridCell.Tab.0.center" timestamp="1579094022077">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state width="1899" height="404" key="GridCell.Tab.0.center/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579094022077" />
     <state width="673" height="271" key="GridCell.Tab.0.center/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495917" />
-    <state width="673" height="271" key="GridCell.Tab.0.left" timestamp="1578683495912">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1899" height="404" key="GridCell.Tab.0.left" timestamp="1579094022076">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state width="1899" height="404" key="GridCell.Tab.0.left/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579094022076" />
     <state width="673" height="271" key="GridCell.Tab.0.left/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495912" />
-    <state width="673" height="271" key="GridCell.Tab.0.right" timestamp="1578683495918">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1899" height="404" key="GridCell.Tab.0.right" timestamp="1579094022078">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state width="1899" height="404" key="GridCell.Tab.0.right/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579094022078" />
     <state width="673" height="271" key="GridCell.Tab.0.right/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495918" />
     <state x="192" y="0" key="SettingsEditor" timestamp="1578684296904">
       <screen x="0" y="0" width="1366" height="768" />

@@ -1,3 +1,4 @@
+import flask_login
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_script import Manager
@@ -14,8 +15,8 @@ migrate = Migrate(app, db)
 manager = Manager(app)
 manager.add_command('db', MigrateCommand)
 
-lm = LoginManager()
-lm.init_app(app)
+login_manager = LoginManager()
+login_manager.init_app(app)
 
 from app.models import tables, forms
 from app.controllers import default

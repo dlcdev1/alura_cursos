@@ -1,0 +1,4 @@
+[core]
+account = davidcorreia@google.com
+disable_usage_reporting = False
+project = gfw-orion-dev

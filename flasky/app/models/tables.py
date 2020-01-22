@@ -50,7 +50,7 @@ class Post(db.Model):
         self.user_id = user_id
 
     def __repr__(self):
-        return "<Posrt %r>" % self.id
+        return "<Post %r>" % self.id
 
 class Follow(db.Model):
     __tablename__ = "Follow"
