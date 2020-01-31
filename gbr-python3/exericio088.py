@@ -5,6 +5,7 @@ entre 1 a 60 para cada jogo, cadastrando tudo em uma lista composta.
 '''
 
 import random
+from time import sleep
 sorted_list = list()
 list_number = list()
 count_list = int(input('Informe a quantidade jogos? '))
@@ -17,3 +18,4 @@ for list in range(0, count_list):
 
 for linha in range(0, count_list):
     print(f'{sorted(sorted_list[linha])}')
+    sleep(1)

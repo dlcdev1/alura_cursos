@@ -27,10 +27,23 @@ while router != False:
 
 print("-="*20)
 print("Boletim Escolar")
-
-for linha in range(0, count):
-    soma = sum(alunos[linha][1:2] + alunos[linha][2:3])
-    print(f'Nome:{alunos[linha][0:1]}')
-    print(f'A media é {soma/2}')
+while router!= True:
+    for linha in range(0, count):
+        soma = sum(alunos[linha][1:2] + alunos[linha][2:3])
+        print(f'Nome:{alunos[linha][0:1]}')
+        print(f'A media é {soma/2}')
     print("=="*20)
+
+    for linha in range(0, count):
+        print(f'Mostrar nota individual: ')
+        print(f'Aluno: {alunos[linha][0:1]} [{linha}]')
+    nota_indivudual = int(input('Informe o numero do aluno: '))
+    print(alunos[nota_indivudual])
+
+    keep = input('Deseja continuar [S/N]: ')
+    if keep == 'n' or keep == 'N':
+        router = False
+        print('Fim do programa')
+
+
 

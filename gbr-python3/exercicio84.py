@@ -10,11 +10,15 @@ route = True
 keep = ''
 pessoas = list()
 dados = list()
-pessoas_pesadas = list()
-pessoas_leves = list()
+maior = men = 0
 while route != False:
     dados.append(str(input('Informe o nome: ')))
     dados.append(int(input('Informe o peso: ')))
+    if len(pessoas) == 0:
+        maior = men = dados[1]
+    else:
+        if dados[1] > maior:
+            maior = dados[1]
     pessoas.append(dados[:])
     dados.clear()
 
@@ -23,15 +27,8 @@ while route != False:
         route = False
         print(f'Exit program')
 
-for peso in pessoas:
-    print(peso[1])
-    if peso[1] >= 90:
-        pessoas_pesadas.append(peso)
-    elif peso[1] <= 70:
-        pessoas_leves.append(peso)
-
 
 
 print(f'Quatidade de pessoas cadastradas foram: {len(pessoas)}')
-print(f'Pessoas mais pesadas são: {pessoas_pesadas}')
-print(f'Pessoas mais leves são: {pessoas_leves}')
+print(f'Pessoas mais pesadas são: {maior}')
+print(f'Pessoas mais leves são: {men}')
