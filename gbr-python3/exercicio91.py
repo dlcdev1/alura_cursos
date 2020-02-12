@@ -1,6 +1,7 @@
-'''crie um progrma onde 4 jogadores
+'''crie um programa onde 4 jogadores
 joguem um DADO e tenha resultados aleatorios.
-Guarde esses resultados em um dicionario. no final, coloque esse dicionário em ordem, sabendoque o
+Guarde esses resultados em um dicionario. no final,
+coloque esse dicionário em ordem, sabendoque o
 vencedor tirou o maior número no dado
 
 PRINT
@@ -20,9 +21,23 @@ VALORES SORTEADOS
  5 LUGAR
 '''
 import random
-jogadas = { }
-for numbers in range(0, 4):
-    print(numbers)
-    jogadas = {f"Jogador{numbers}": random.randrange(1, 6)}
+jogadas = {}
+resultados = {}
+ranking = {}
 
-print(jogadas)
+for numbers in range(0, 4):
+    jogadas = {f"Jogador {numbers+1}": random.randint(1, 6)}
+    resultados.update(jogadas)
+    # print(resultados)
+
+for k, v in resultados.items():
+    print(f'O {k} Tirou: {v}')
+
+for item in sorted(resultados, key = resultados.get):
+    print(resultados.keys())
+    print(f'{resultados[item]}')
+
+print('=-='*20)
+for k, v in resultados.items():
+    print(k, v)
+
