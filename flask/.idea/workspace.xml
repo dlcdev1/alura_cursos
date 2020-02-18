@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7801848-2faa-406f-acc6-a53bf521b7b0" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/flask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flask.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testes-python-inicial/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testes-python-inicial/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testes-python-inicial/.idea/testes-python-inicial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../testes-python-inicial/.idea/testes-python-inicial.iml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/workspace.xml" afterDir="false" />
+>>>>>>> e4e6a3ffe2b789d968c650c9e0d50cb965db8252
       <change beforePath="$PROJECT_DIR$/../testes-python-inicial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testes-python-inicial/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +30,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1WAkoA1VCflllUHMjhNkSwUCKtc" />
+=======
+  <component name="ProjectId" id="1WCdq4277Ux7Mxeb2BFzShknFFh" />
+>>>>>>> e4e6a3ffe2b789d968c650c9e0d50cb965db8252
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -51,7 +60,11 @@
       <recent name="$PROJECT_DIR$/jogoteca/static" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.jogoteca">
+=======
+  <component name="RunManager" selected="Python.prepara_banco">
+>>>>>>> e4e6a3ffe2b789d968c650c9e0d50cb965db8252
     <configuration name="jogoteca" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="flask" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,6 +140,7 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="390" y="27" width="642" height="741" key="#jogoteca" timestamp="1578600020489">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -172,5 +186,36 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578600527512" />
+=======
+    <state x="371" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578657723985">
+      <screen x="0" y="23" width="1366" height="672" />
+    </state>
+    <state x="371" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1366.-9.1280.777/0.23.1366.672@0.23.1366.672" timestamp="1578657723985" />
+    <state width="1899" height="404" key="GridCell.Tab.0.bottom" timestamp="1579094022078">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="404" key="GridCell.Tab.0.bottom/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579094022078" />
+    <state width="673" height="271" key="GridCell.Tab.0.bottom/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495919" />
+    <state width="1899" height="404" key="GridCell.Tab.0.center" timestamp="1579094022077">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="404" key="GridCell.Tab.0.center/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579094022077" />
+    <state width="673" height="271" key="GridCell.Tab.0.center/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495917" />
+    <state width="1899" height="404" key="GridCell.Tab.0.left" timestamp="1579094022076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="404" key="GridCell.Tab.0.left/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579094022076" />
+    <state width="673" height="271" key="GridCell.Tab.0.left/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495912" />
+    <state width="1899" height="404" key="GridCell.Tab.0.right" timestamp="1579094022078">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="404" key="GridCell.Tab.0.right/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579094022078" />
+    <state width="673" height="271" key="GridCell.Tab.0.right/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578683495918" />
+    <state x="192" y="0" key="SettingsEditor" timestamp="1578684296904">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="192" y="0" key="SettingsEditor/1366.-32.1280.800/0.0.1366.768@0.0.1366.768" timestamp="1578684296904" />
+    <state x="192" y="23" key="SettingsEditor/1366.-9.1280.777/0.23.1366.672@0.23.1366.672" timestamp="1578657801638" />
+>>>>>>> e4e6a3ffe2b789d968c650c9e0d50cb965db8252
   </component>
 </project>

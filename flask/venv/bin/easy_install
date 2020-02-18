@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+#!/home/pessoa/treinamento/cursos/flask/venv/bin/python
+=======
 #!/Users/davidcorreia/Documents/Workspace/cursos/flask/venv/bin/python
+>>>>>>> a4a67d7ed08fb08194cb477b01a215e107d476ae
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install'
 __requires__ = 'setuptools==40.8.0'
 import re
