@@ -21,23 +21,26 @@ VALORES SORTEADOS
  5 LUGAR
 '''
 import random
+from operator import itemgetter
+
 jogadas = {}
 resultados = {}
 ranking = {}
 
+print("VALORES SORTEADOS")
 for numbers in range(0, 4):
     jogadas = {f"Jogador {numbers+1}": random.randint(1, 6)}
     resultados.update(jogadas)
-    # print(resultados)
 
 for k, v in resultados.items():
-    print(f'O {k} Tirou: {v}')
+    print(f'O {k} Tirou: {v} pontos')
 
-for item in sorted(resultados, key = resultados.get):
-    print(resultados.keys())
-    print(f'{resultados[item]}')
+print('=-='*9)
 
-print('=-='*20)
-for k, v in resultados.items():
-    print(k, v)
-
+ranking.update(sorted(resultados.items(), key=itemgetter(1), reverse=True))
+print("RANKING")
+count = 0
+for k, v in ranking.items():
+    count += 1
+    print(f'{count}º LUGAR: {k} com {v} pontos')
+print('=-='*11)
