@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="914861e9-7ece-4e10-9283-44c2748f7d8f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../flask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flask/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testes-python-inicial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testes-python-inicial/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/collections2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/conta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/conta_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/heranca_polimorfismo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/igualdade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercism/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gbr-python3/.idea/gbr-python3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../gbr-python3/.idea/gbr-python3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gbr-python3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gbr-python3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gbr-python3/exericio088.py" beforeDir="false" afterPath="$PROJECT_DIR$/../gbr-python3/exericio088.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,20 +238,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>

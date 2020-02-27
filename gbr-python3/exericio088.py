@@ -8,7 +8,7 @@ import random
 from time import sleep
 sorted_list = list()
 list_number = list()
-count_list = int(input('Informe a quantidade jogos? '))
+count_list = 5
 
 for list in range(0, count_list):
     for numbers in range(0, 6):
