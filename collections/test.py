@@ -1,4 +1,4 @@
-from collections import counter
+
 # conjunto = {"paulo", "david", "Antonio", "sandra"}
 # print(conjunto)
 #
