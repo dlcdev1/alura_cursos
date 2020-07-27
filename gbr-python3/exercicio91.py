@@ -5,8 +5,7 @@ coloque esse dicionário em ordem, sabendoque o
 vencedor tirou o maior número no dado
 
 PRINT
-VALORES SORTEADOS
- SLEEP
+VALORES SORTEADOS SLEEP
  O JOGADOR 1 TIROU X
  O JOGADOR 2 TIROU X
  O JOGADOR 3 TIROU X
