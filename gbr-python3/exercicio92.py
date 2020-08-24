@@ -9,7 +9,13 @@ ANO DE NASCIMENTO:XXX
 CARTEIRA DE TRABALHO (0 NAO TEM): XXX
 ANO DE CONTRATAÇAO: XXX
 SALARIO: R$
-
-
-
 '''
+
+name = input("Informe um nome:")
+ano_nascimento = input("Data de nascimento:"))
+carteira_trabalho = int(input("Carteira de trabalhor:"))
+
+print(name)
+
+
+
