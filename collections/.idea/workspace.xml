@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8962e965-54f9-4014-bb2d-d54b97878c48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XoCwX7Sd2NNDvZvxQahJVmCqDh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RunManager" selected="Python.collections2">
+    <configuration name="collections2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="collections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collections2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="collections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="igualdade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="collections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/igualdade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="collections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in conta_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="collections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/conta_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.collections2" />
+        <item itemvalue="Python tests.Unittests in conta_test.py" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.conta" />
+        <item itemvalue="Python.igualdade" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8962e965-54f9-4014-bb2d-d54b97878c48" name="Default Changelist" comment="" />
+      <created>1581703298529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581703298529</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="257" key="GridCell.Tab.0.bottom" timestamp="1582831827149">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="651" key="GridCell.Tab.0.bottom/-1280.102.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1581944271313" />
+    <state width="1899" height="257" key="GridCell.Tab.0.bottom/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1582831827149" />
+    <state width="1259" height="257" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582822358570" />
+    <state width="1345" height="332" key="GridCell.Tab.0.bottom/1366.-32.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1582067835049" />
+    <state width="1899" height="257" key="GridCell.Tab.0.center" timestamp="1582831827148">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="651" key="GridCell.Tab.0.center/-1280.102.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1581944271311" />
+    <state width="1899" height="257" key="GridCell.Tab.0.center/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1582831827148" />
+    <state width="1259" height="257" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582822358568" />
+    <state width="1345" height="332" key="GridCell.Tab.0.center/1366.-32.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1582067835048" />
+    <state width="1899" height="257" key="GridCell.Tab.0.left" timestamp="1582831827147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="651" key="GridCell.Tab.0.left/-1280.102.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1581944271310" />
+    <state width="1899" height="257" key="GridCell.Tab.0.left/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1582831827147" />
+    <state width="1259" height="257" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582822358567" />
+    <state width="1345" height="332" key="GridCell.Tab.0.left/1366.-32.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1582067835047" />
+    <state width="1899" height="257" key="GridCell.Tab.0.right" timestamp="1582831827149">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="651" key="GridCell.Tab.0.right/-1280.102.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1581944271312" />
+    <state width="1899" height="257" key="GridCell.Tab.0.right/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1582831827149" />
+    <state width="1259" height="257" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582822358569" />
+    <state width="1345" height="332" key="GridCell.Tab.0.right/1366.-32.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1582067835048" />
+    <state width="1899" height="375" key="GridCell.Tab.1.bottom" timestamp="1581954756156">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.bottom/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581954756156" />
+    <state width="1899" height="375" key="GridCell.Tab.1.center" timestamp="1581954756155">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.center/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581954756155" />
+    <state width="1899" height="375" key="GridCell.Tab.1.left" timestamp="1581954756154">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.left/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581954756154" />
+    <state width="1899" height="375" key="GridCell.Tab.1.right" timestamp="1581954756155">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.right/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581954756155" />
+    <state width="1899" height="375" key="GridCell.Tab.2.bottom" timestamp="1581954756153">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.2.bottom/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581954756153" />
+    <state width="1899" height="375" key="GridCell.Tab.2.center" timestamp="1581954756152">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.2.center/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581954756152" />
+    <state width="1899" height="375" key="GridCell.Tab.2.left" timestamp="1581954756151">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.2.left/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581954756151" />
+    <state width="1899" height="375" key="GridCell.Tab.2.right" timestamp="1581954756153">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.2.right/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1581954756153" />
+  </component>
+</project>

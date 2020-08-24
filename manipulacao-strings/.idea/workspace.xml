@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="451dd89d-2759-40f0-a779-bb54750e3988" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQxmllk4LA1uIHoeTEg6IO5L7l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.regex">
+    <configuration name="ExtratorArgumentosUrl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="manipulacao-strings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExtratorArgumentosUrl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="manipulacao-strings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="manipulacao-strings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.regex" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.ExtratorArgumentosUrl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="451dd89d-2759-40f0-a779-bb54750e3988" name="Default Changelist" comment="" />
+      <created>1579095780487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579095780487</updated>
+      <workItem from="1585791760848" duration="1713000" />
+      <workItem from="1586226933936" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1324" height="241" key="GridCell.Tab.0.bottom" timestamp="1585793959679">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/-1280.102.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1579175069742" />
+    <state width="1899" height="375" key="GridCell.Tab.0.bottom/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962251" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579179425640" />
+    <state width="1324" height="241" key="GridCell.Tab.0.bottom/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959679" />
+    <state width="1324" height="265" key="GridCell.Tab.0.bottom/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793419380" />
+    <state width="1324" height="241" key="GridCell.Tab.0.center" timestamp="1585793959678">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.center/-1280.102.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1579175069740" />
+    <state width="1899" height="375" key="GridCell.Tab.0.center/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962250" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579179425638" />
+    <state width="1324" height="241" key="GridCell.Tab.0.center/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959678" />
+    <state width="1324" height="265" key="GridCell.Tab.0.center/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793419378" />
+    <state width="1324" height="241" key="GridCell.Tab.0.left" timestamp="1585793959677">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.left/-1280.102.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1579175069739" />
+    <state width="1899" height="375" key="GridCell.Tab.0.left/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962246" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579179425637" />
+    <state width="1324" height="241" key="GridCell.Tab.0.left/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959677" />
+    <state width="1324" height="265" key="GridCell.Tab.0.left/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793419376" />
+    <state width="1324" height="241" key="GridCell.Tab.0.right" timestamp="1585793959679">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.right/-1280.102.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1579175069741" />
+    <state width="1899" height="375" key="GridCell.Tab.0.right/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962250" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579179425639" />
+    <state width="1324" height="241" key="GridCell.Tab.0.right/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959679" />
+    <state width="1324" height="265" key="GridCell.Tab.0.right/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793419379" />
+    <state width="1324" height="241" key="GridCell.Tab.1.bottom" timestamp="1585793959686">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.bottom/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962255" />
+    <state width="1899" height="375" key="GridCell.Tab.1.bottom/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579175150724" />
+    <state width="1324" height="241" key="GridCell.Tab.1.bottom/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959686" />
+    <state width="1324" height="241" key="GridCell.Tab.1.bottom/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793291583" />
+    <state width="1324" height="241" key="GridCell.Tab.1.center" timestamp="1585793959685">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.center/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962255" />
+    <state width="1899" height="375" key="GridCell.Tab.1.center/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579175150722" />
+    <state width="1324" height="241" key="GridCell.Tab.1.center/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959685" />
+    <state width="1324" height="241" key="GridCell.Tab.1.center/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793291582" />
+    <state width="1324" height="241" key="GridCell.Tab.1.left" timestamp="1585793959683">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.left/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962254" />
+    <state width="1899" height="375" key="GridCell.Tab.1.left/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579175150722" />
+    <state width="1324" height="241" key="GridCell.Tab.1.left/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959683" />
+    <state width="1324" height="241" key="GridCell.Tab.1.left/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793291581" />
+    <state width="1324" height="241" key="GridCell.Tab.1.right" timestamp="1585793959686">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.right/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962255" />
+    <state width="1899" height="375" key="GridCell.Tab.1.right/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579175150723" />
+    <state width="1324" height="241" key="GridCell.Tab.1.right/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959686" />
+    <state width="1324" height="241" key="GridCell.Tab.1.right/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793291582" />
+    <state width="1324" height="241" key="GridCell.Tab.2.bottom" timestamp="1585793959682">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.2.bottom/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962254" />
+    <state width="1899" height="375" key="GridCell.Tab.2.bottom/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579175150721" />
+    <state width="1324" height="241" key="GridCell.Tab.2.bottom/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959682" />
+    <state width="1324" height="241" key="GridCell.Tab.2.bottom/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793291580" />
+    <state width="1324" height="241" key="GridCell.Tab.2.center" timestamp="1585793959681">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.2.center/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962252" />
+    <state width="1899" height="375" key="GridCell.Tab.2.center/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579175150720" />
+    <state width="1324" height="241" key="GridCell.Tab.2.center/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959681" />
+    <state width="1324" height="241" key="GridCell.Tab.2.center/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793291578" />
+    <state width="1324" height="241" key="GridCell.Tab.2.left" timestamp="1585793959680">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.2.left/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962252" />
+    <state width="1899" height="375" key="GridCell.Tab.2.left/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579175150719" />
+    <state width="1324" height="241" key="GridCell.Tab.2.left/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959680" />
+    <state width="1324" height="241" key="GridCell.Tab.2.left/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793291578" />
+    <state width="1324" height="241" key="GridCell.Tab.2.right" timestamp="1585793959682">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.2.right/-1280.102.1280.777/0.23.1920.978@0.23.1920.978" timestamp="1579200962253" />
+    <state width="1899" height="375" key="GridCell.Tab.2.right/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579175150720" />
+    <state width="1324" height="241" key="GridCell.Tab.2.right/1366.-29.1440.877/0.0.1366.768@0.0.1366.768" timestamp="1585793959682" />
+    <state width="1324" height="241" key="GridCell.Tab.2.right/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585793291579" />
+    <state x="445" y="171" width="670" height="481" key="search.everywhere.popup" timestamp="1585792569122">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1280.79.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1579178879370" />
+    <state x="445" y="171" width="670" height="481" key="search.everywhere.popup/1366.-52.1440.900/0.0.1366.768@0.0.1366.768" timestamp="1585792569122" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/manipulacao_strings$main.coverage" NAME="main Coverage Results" MODIFIED="1585791773121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/manipulacao_strings$regex.coverage" NAME="regex Coverage Results" MODIFIED="1585793419364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
