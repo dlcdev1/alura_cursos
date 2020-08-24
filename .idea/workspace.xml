@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48e8fa0c-9a03-455b-8412-c017b495358e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/manipulacao-strings/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/teste_team_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/type_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manipulacao-strings/.idea/sonarlint/issuestore/5/f/5f6b90ccf77fe56bb8554ce3bb95614bdc58f045" beforeDir="false" afterPath="$PROJECT_DIR$/manipulacao-strings/.idea/sonarlint/issuestore/5/f/5f6b90ccf77fe56bb8554ce3bb95614bdc58f045" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585791100847</updated>
       <workItem from="1585791107583" duration="651000" />
+      <workItem from="1592253148790" duration="3000" />
     </task>
     <servers />
   </component>

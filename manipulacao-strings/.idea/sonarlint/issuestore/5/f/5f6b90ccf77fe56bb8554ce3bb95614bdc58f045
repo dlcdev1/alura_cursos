@@ -1,14 +1,14 @@
 
-npython:S100
-"RRename method "urlEhValida" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ï©¤íÿÿÿÿÿ
-npython:S100"WRename method "extraiArgumentos" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒë´Ï
-ypython:S117"bRename this local variable "buscaMoedaDestino" to match the regular expression ^[_a-z][a-z0-9_]*$.(’£ü›
-xpython:S117"aRename this local variable "buscaMoedaOrigem" to match the regular expression ^[_a-z][a-z0-9_]*$.(’ÀóÎ
-ƒpython:S117"gRename this local variable "indiceFinalMoedaOrigem" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉĞèñúÿÿÿÿ
-python:S117"jRename this local variable "indiceInicialMoedaDestino" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á›®Ø
 python:S117"iRename this local variable "indiceInicialMoedaOrigem" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ã=
 tpython:S117""]Rename this local variable "moedaDestino" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ‰Ù¶
-xpython:S117"\Rename this local variable "moedaOrigem" to match the regular expression ^[_a-z][a-z0-9_]*$.(„€Åùÿÿÿÿ
-wpython:S100&"[Rename method "encontraIndiceIncial" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦Î²¡ùÿÿÿÿ
 tpython:S117&"XRename this parameter "moedaBuscada" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦Î²¡ùÿÿÿÿ
+xpython:S117"aRename this local variable "buscaMoedaOrigem" to match the regular expression ^[_a-z][a-z0-9_]*$.(’ÀóÎ
+ypython:S117"bRename this local variable "buscaMoedaDestino" to match the regular expression ^[_a-z][a-z0-9_]*$.(’£ü›
+xpython:S117"\Rename this local variable "moedaOrigem" to match the regular expression ^[_a-z][a-z0-9_]*$.(„€Åùÿÿÿÿ
 spython:S100)"WRename method "trocaMoedaOrigem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ñî—Öùÿÿÿÿ
+wpython:S100&"[Rename method "encontraIndiceIncial" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦Î²¡ùÿÿÿÿ
+npython:S100"WRename method "extraiArgumentos" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒë´Ï
+npython:S100
+"RRename method "urlEhValida" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ï©¤íÿÿÿÿÿ
+python:S117"jRename this local variable "indiceInicialMoedaDestino" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á›®Ø
+ƒpython:S117"gRename this local variable "indiceFinalMoedaOrigem" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉĞèñúÿÿÿÿ
