@@ -50,7 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.leinardi.pycharm.pylint.PylintConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.recursive">
     <configuration name="recursive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,7 +193,7 @@
       <workItem from="1597943629756" duration="1284000" />
       <workItem from="1598012168733" duration="1819000" />
       <workItem from="1598272488876" duration="13000" />
-      <workItem from="1598273660421" duration="2802000" />
+      <workItem from="1598273660421" duration="3043000" />
     </task>
     <servers />
   </component>
