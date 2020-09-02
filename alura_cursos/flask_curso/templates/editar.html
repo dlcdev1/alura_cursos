@@ -1,10 +1,11 @@
 {% extends "template.html" %}
 {% block conteudo %}
-    <form action="{{ url_for('atualizar') }}" method="post">
-         <figure>
-            <img src="{{ url_for('imagem', nome_arquivo=capa_jogo) }}">
+    <form action="{{ url_for('atualizar') }}" method="post" enctype="multipart/form-data">
+         <figure class="thumb col-md-4">
+            <img class="img-responsive" src="{{ url_for('imagem', nome_arquivo=capa_jogo) }}">
             <figcaption>
-                <label>
+                <label class="fileContainer">
+                    Mudar capa
                     <input type="file" name="arquivo" accept=".jpg">
                 </label>
             </figcaption>
