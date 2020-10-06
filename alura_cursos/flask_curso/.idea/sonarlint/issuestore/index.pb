@@ -21,3 +21,21 @@ G
 	models.py,8/5/85f64e80ba345158acc186d4505f039d4f21420f
 E
 templates/editar.html,d/4/d454168e9269e1df1775591a4fa816a3fa457221
+8
+views.py,2/3/23d3e949762568fab2ae87eccc786a1f8a2c7597
+>
+static/app.css,b/3/b3df54955b05c573cb1c37e8da770f10d5c35a19
+9
+	config.py,1/a/1a1b9769344cb239f2e540e1e6ee1efa2d3034ea
+:
+
+helpers.py,0/9/09c5163eef8209f1ba0f85bc15d002fd2ae0c4fd
+K
+firestore/datas/__init__.py,3/9/39ee8e3788a25f8589b32b4e9aa33d1e2690a6e9
+A
+firestore/main.py,c/f/cf736bf40251e2375604a775399749a45f83ca86
+:
+
+UPLOWER.py,0/2/028e08777e7be0485edf6b644332bee1608aeac4
+;
+novotest.py,8/c/8c1c5e0927b6d087d87d05a3ad05f0d196130c1c

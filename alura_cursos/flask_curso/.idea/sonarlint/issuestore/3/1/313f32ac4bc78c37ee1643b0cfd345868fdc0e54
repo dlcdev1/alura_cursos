@@ -1,6 +1,7 @@
 
-l Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘ßŒµ8—­šÃ.
-q Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ØÃ­«øÿÿÿÿ8—­šÃ.
-l Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(É“š¼8—­šÃ.
-q Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó‰“§úÿÿÿÿ8—­šÃ.
-RWeb:TableWithoutCaptionCheck" Add a description to this table.(€¨¯Ãşÿÿÿÿ8—­šÃ.
+TWeb:TableWithoutCaptionCheck" Add a description to this table.(€¨¯Ãşÿÿÿÿ8—­šÃ.
+n Web:TableHeaderHasIdOrScopeCheck
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(É“š¼8—­šÃ.
+s Web:TableHeaderHasIdOrScopeCheck	";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó‰“§úÿÿÿÿ8—­šÃ.
+s Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ØÃ­«øÿÿÿÿ8—­šÃ.
+n Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘ßŒµ8—­šÃ.
