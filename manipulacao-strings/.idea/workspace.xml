@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="451dd89d-2759-40f0-a779-bb54750e3988" name="Default Changelist" comment="" />
+    <list default="true" id="451dd89d-2759-40f0-a779-bb54750e3988" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../alura_cursos/flask_curso/debugger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alura_cursos/flask_curso/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alura_cursos/python_pep_8_type/fila_normal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alura_cursos/python_pep_8_type/fila_prioritaria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alura_cursos/python_pep_8_type/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alura_cursos/flask_curso/.idea/sonarlint/issuestore/0/2/028e08777e7be0485edf6b644332bee1608aeac4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alura_cursos/flask_curso/.idea/sonarlint/issuestore/0/6/06393386fd422c6fcab2e19cc3775629d88eb005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alura_cursos/flask_curso/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../alura_cursos/flask_curso/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../udemy_cursos" beforeDir="false" afterPath="$PROJECT_DIR$/../udemy_cursos" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,6 +154,7 @@
       <updated>1579095780487</updated>
       <workItem from="1585791760848" duration="1713000" />
       <workItem from="1586226933936" duration="29000" />
+      <workItem from="1609940509930" duration="20000" />
     </task>
     <servers />
   </component>

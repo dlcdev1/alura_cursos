@@ -1,8 +1,6 @@
 
 ;
 jogoteca.py,6/4/64653992c00b57818da649a2c242d19ed07cedec
-8
-teste.py,0/6/06393386fd422c6fcab2e19cc3775629d88eb005
 D
 templates/lista.html,3/1/313f32ac4bc78c37ee1643b0cfd345868fdc0e54
 D
@@ -34,8 +32,11 @@ K
 firestore/datas/__init__.py,3/9/39ee8e3788a25f8589b32b4e9aa33d1e2690a6e9
 A
 firestore/main.py,c/f/cf736bf40251e2375604a775399749a45f83ca86
-:
-
-UPLOWER.py,0/2/028e08777e7be0485edf6b644332bee1608aeac4
 ;
 novotest.py,8/c/8c1c5e0927b6d087d87d05a3ad05f0d196130c1c
+7
+test.py,a/3/a36e355ddb203d7d4133221f339dc406cb9f480f
+;
+debugger.py,a/6/a66584e5494c2743ba5042c8a1dba4976d4f6463
+U
+%firestore/datas/firestore_data_dev.py,0/b/0be47b70f244f9b19b070adcc945afec27adece3
